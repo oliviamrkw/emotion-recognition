@@ -1,0 +1,19 @@
+# Core AI / API
+google-generativeai>=0.7.2
+faster-whisper>=1.0
+
+# Screen capture + image handling
+mss>=9.0.1
+Pillow>=10.0.0
+opencv-python>=4.9.0
+
+# Audio input/output + VAD
+sounddevice>=0.4.6
+soundfile>=0.12.1
+webrtcvad>=2.0.10
+
+# Text-to-speech
+pyttsx3>=2.90
+
+# Utilities
+numpy>=1.26.4
